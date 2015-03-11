@@ -1,6 +1,6 @@
 //
-//  circlecitestTests.swift
-//  circlecitestTests
+//  circleTests.swift
+//  circleTests
 //
 //  Created by qair on 2015/03/11.
 //  Copyright (c) 2015年 Cocominap. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class circlecitestTests: XCTestCase {
+class circleTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
